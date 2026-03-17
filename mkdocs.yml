@@ -1,0 +1,11 @@
+site_name: My Docs
+theme:
+  name: material
+plugins:
+  - mike:
+      # These fields are all optional; the defaults are as below...
+      alias_type: symlink
+      redirect_template: null
+      deploy_prefix: ''
+      canonical_version: null
+      version_selector: true
