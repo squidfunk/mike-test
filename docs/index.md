@@ -1,6 +1,6 @@
 # Welcome to Zensical
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [zensical.org](https://zensical.org).
 
 ## Commands
 
