@@ -1,0 +1,6 @@
+[project]
+site_name = "Zensical Demo"
+
+[project.extra.version]
+provider = "mike"
+default = "latest"
